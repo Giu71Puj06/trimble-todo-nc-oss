@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+}
+
+.topbar{
+  display:flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.stats{
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 6px;
+  vertical-align: top;
+}
+
+th {
+  background: #f0f0f0;
+}
+
+.desc {
+  max-width: 520px;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.warning {
+  background-color: #fff3cd;
+}

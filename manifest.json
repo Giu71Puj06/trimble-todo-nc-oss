@@ -1,0 +1,7 @@
+{
+  "name": "ToDo NC / OSS Viewer",
+  "description": "Vista avanzata ToDo con Description + ID NC/OSS + ID Trimble",
+  "version": "1.0.0",
+  "entry": "index.html",
+  "scopes": ["todo:read"]
+}
