@@ -1,7 +1,8 @@
 {
+  "id": "todo-nc-oss-viewer",
   "name": "ToDo NC / OSS Viewer",
-  "description": "Vista avanzata ToDo con Description + ID NC/OSS + ID Trimble",
+  "description": "Vista avanzata ToDo con Description e identificativo NC/OSS",
   "version": "1.0.0",
-  "entry": "index.html",
-  "scopes": ["todo:read"]
+  "type": "project-extension",
+  "main": "index.html"
 }
